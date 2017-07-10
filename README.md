@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://user-images.githubusercontent.com/1577319/27564151-1d99e3a0-5ad6-11e7-8ab6-417c5b5a3ff2.png" width="489"/>
 
 [![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
@@ -247,3 +248,6 @@ Twitter: [@weichsel](https://twitter.com/weichsel).
 
 ZIP Foundation is released under the MIT License.  
 See [LICENSE](https://github.com/weichsel/ZIPFoundation/blob/master/LICENSE) for details.
+=======
+# test-swift
+>>>>>>> 4e1bd758b7add43892e85961a72008d8b7500df9
